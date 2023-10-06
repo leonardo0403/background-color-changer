@@ -1,0 +1,52 @@
+.card{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    background-color: white;
+    padding: 2vw;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.color{
+    display: block;
+    border-radius: 50px;
+    width: 100px;
+    padding: 3px;
+    margin: 5px;
+}
+#red{
+    border: 1px solid red;
+    color: red;
+    transition: 0.5s;
+}
+#red:hover{
+    background-color: red;
+    color: white;
+}
+#green{
+    border: 1px solid green;
+    color: green;
+    transition: 0.5s;
+}
+#green:hover{
+    background-color: green;
+    color: white;
+}
+#yellow{
+    border: 1px solid yellow;
+    color: yellow;
+    transition: 0.5s;
+}
+#yellow:hover{
+    background-color: yellow;
+    color: white;
+}
+#blue{
+    border: 1px solid blue;
+    color: blue;
+    transition: 0.5s;
+}
+#blue:hover{
+    background-color: blue;
+    color: white;
+}
